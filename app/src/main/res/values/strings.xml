@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StudentFirebaseDB</string>
+    <string name="name">Name</string>
+    <string name="admission">Admission</string>
+    <string name="age">Age</string>
+    <string name="email_id">Email id</string>
+    <string name="submit">Submit</string>
+    <string name="students_details">Students Details</string>
+</resources>
